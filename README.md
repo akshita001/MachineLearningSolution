@@ -18,13 +18,15 @@ I am using this Machine Learning Solution using sample infamous Titanic dataset.
 
 Variable / Field           | Definition             | Description / More Details           |
 :--                        |:--                     |:--                                   |
-survival                   | Survival               | 0 = No, Not Survived and 1 = Yes, Survived |
-pclass                     | Passenger Class        | 1 = 1st class, 2 = 2nd class, 3 = 3rd class. This is the class in which passenger were placed in the ship |
-sex                        | Sex/Gender             | 1 = Male, 0 = Female                 |
-age                        | Age in years           | Age of the particular person         |
-sibsp                      | # of siblings / spouses aboard the Titanic | Can be 1,2,3 etc        |
-parch                      | # of parents / children aboard the Titanic | Can be 1,2,3 etc        |
-ticket                     | Ticket number          | Ticket number                        |
+PassengerId                | Id of Passenger        | Identifier of Passenger              |
+Survived                   | Survival Status        | 0 = No, Not Survived and 1 = Yes, Survived |
+Pclass                     | Passenger Class        | 1 = 1st class, 2 = 2nd class, 3 = 3rd class. This is the class in which passenger were placed in the ship |
+Name                       | Name of Passenger      | Name                                 |
+Sex                        | Sex/Gender             | 1 = Male, 0 = Female                 |
+Age                        | Age in years           | Age of the particular person         |
+Sibsp                      | # of siblings / spouses aboard the Titanic | Can be 1,2,3 etc |
+Parch                      | # of parents / children aboard the Titanic | Can be 1,2,3 etc |
+Ticket                     | Ticket number          | Ticket number                        |
 
 ### Tools and IDE (Integrated Development Environment) used - Python, Jupyter Notebook
 
