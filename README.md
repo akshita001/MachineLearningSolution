@@ -6,7 +6,10 @@ I am using this Machine Learning Solution using sample infamous Titanic dataset.
 
 ### Source of dataset taken from here - https://www.kaggle.com/pavlofesenko/titanic-extended
 
-- Dataset Dictionary
+- Dataset Dictionary is captured below
+  - We have given 3 files : full data, train and test data
+  - Train data : we will be using this to build our machine learning solution with algorithm(s)
+  - Test data : we will be using this to verify / test our model or solution that we have developed using train data
 
 Variable / Field           | Definition             | Description / More Details           |
 :--                        |:--                     |:--                                   |
