@@ -6,4 +6,5 @@ I am using this Machine Learning Solution using sample infamous Titanic dataset.
 
 ### Source of dataset taken from here - https://www.kaggle.com/pavlofesenko/titanic-extended
 
+### Tools and IDE (Integrated Development Environment) used - Python, Jupyter Notebook
 
