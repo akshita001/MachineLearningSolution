@@ -4,6 +4,8 @@ Machine Learning is a branch of artificial intelligence (AI) that provides syste
 
 I am using this Machine Learning Solution using sample infamous Titanic dataset.
 
+### SOLUTION - Please go to my interactive notebook here for complete solution and approach.
+
 ### Source of dataset taken from here - https://www.kaggle.com/pavlofesenko/titanic-extended
 
 - Dataset Dictionary is captured below
