@@ -14,6 +14,9 @@ survival                   | Survival               | 0 = No, Not Survived and 1
 pclass                     | Passenger Class        | 1 = 1st class, 2 = 2nd class, 3 = 3rd class. This is the class in which passenger were placed in the ship |
 sex                        | Sex/Gender             | 1 = Male, 0 = Female                 |
 age                        | Age in years           | Age of the particular person         |
+sibsp                      | # of siblings / spouses aboard the Titanic | Can be 1,2,3 etc        |
+parch                      | # of parents / children aboard the Titanic | Can be 1,2,3 etc        |
+ticket                     | Ticket number          | Ticket number                        |
 
 ### Tools and IDE (Integrated Development Environment) used - Python, Jupyter Notebook
 
