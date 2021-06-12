@@ -6,7 +6,7 @@ I am using this Machine Learning Solution using sample infamous Titanic dataset.
 
 ### SOLUTION - Please go to my interactive notebook here for complete solution and approach.
 
-### Source of dataset taken from here - https://www.kaggle.com/pavlofesenko/titanic-extended
+### SOURCE OF DATASET taken from here - https://www.kaggle.com/pavlofesenko/titanic-extended
 
 - Dataset Dictionary is captured below
   - We have given 3 files : full data, train and test data
