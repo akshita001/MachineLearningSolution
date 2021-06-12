@@ -7,7 +7,7 @@ I am using this Machine Learning Solution using sample infamous Titanic dataset.
 ### SOLUTION 
 - Please go to my interactive notebook below for complete solution and approach.
   - The Notebook File
-  - The PDF version of the Notebook (this can be referred in case not all information are visible properly in the Notebook. This is same as Notebook File. 
+  - The PDF version of the Notebook (this can be referred in case not all information are visible properly in the Notebook). This is same as Notebook File. 
 
 ### SOURCE OF DATASET taken from here - https://www.kaggle.com/pavlofesenko/titanic-extended
 
